@@ -19,4 +19,4 @@ src\
 │   ├──waterfirebase.py\
 ├──rpi2\
 │   ├──motorfirebase.py\
-├──kivy\
+├──kivy
