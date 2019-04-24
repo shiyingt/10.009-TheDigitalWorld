@@ -14,9 +14,9 @@ In addition, notification messages will be sent to the user's Kivy upon successf
 
 
 ## Overall Structure
-src
-├──rpi1
-│   ├──waterfirebase.py
-├──rpi2
-│   ├──motorfirebase.py
-├──kivy
+src\
+├──rpi1\
+│   ├──waterfirebase.py\
+├──rpi2\
+│   ├──motorfirebase.py\
+├──kivy\
