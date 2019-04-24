@@ -11,3 +11,12 @@ We use Google Firebase to allow for easy customisation for users. Users will be 
 In addition, notification messages will be sent to the user's Kivy upon successfully closing the window. After duration elapsed and window sill does not receive positive input, a notification will be sent to user informing anomaly. 
 
 ![read_me_overall_DESCR](https://github.com/shiyingt/I-Open-at-the-Close/blob/master/images/Screenshot%20from%202019-04-10%2022-33-46.png)
+
+
+## Overall Structure
+src
+├──rpi1
+│   ├──waterfirebase.py
+├──rpi2
+│   ├──motorfirebase.py
+├──kivy
